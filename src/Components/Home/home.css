@@ -33,10 +33,10 @@
 }
 @keyframes move{
     0%{
-        transform: rotateX(120deg);
+        transform: rotateX(0deg);
     }
     100%{
-        transform: rotateX(-120deg);
+        transform: rotateX(180deg);
     }
 }
 .home-subtitle{
