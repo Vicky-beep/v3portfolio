@@ -23,7 +23,7 @@ const Portfolio = () => {
                     <div className="hover-items">
                         <h3>Project Source</h3>
                         <div className="icons">
-                            <a href="https://github.com/Vicky-beep/Saint-Shop" className="icon">
+                            <a href="https://github.com/VictoryOmowumi/Saint-Shop" className="icon">
                             <i class="uil uil-github"></i>
                             </a>
                             <a href="https://saint-shop.netlify.app/" className="icon">
@@ -40,7 +40,7 @@ const Portfolio = () => {
                     <div className="hover-items">
                         <h3>Project Source</h3>
                         <div className="icons">
-                            <a href="https://github.com/Vicky-beep/Zuri-Assignment-1" className="icon">
+                            <a href="https://github.com/VictoryOmowumi/Zuri-Assignment-1" className="icon">
                             <i class="uil uil-github"></i>
                             </a>
                             <a href="https://vicky-beep.github.io/assignment-1/" className="icon">
@@ -58,7 +58,7 @@ const Portfolio = () => {
                     <div className="hover-items">
                         <h3>Project Source</h3>
                         <div className="icons">
-                            <a href="https://github.com/Vicky-beep/zuri-website" className="icon">
+                            <a href="https://github.com/VictoryOmowumi/zuri-website" className="icon">
                             <i class="uil uil-github"></i>
                             </a>
                             <a href="https://vicky-beep.github.io/zuri-website/" className="icon">
