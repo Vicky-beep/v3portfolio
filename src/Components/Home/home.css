@@ -33,10 +33,10 @@
 }
 @keyframes move{
     0%{
-        transform: translateY(90px);
+        transform: translateX(20px);
     }
     100%{
-        transform: translateY(-90px);
+        transform: translateX(-30px);
     }
 }
 .home-subtitle{
