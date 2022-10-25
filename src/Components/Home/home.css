@@ -29,6 +29,15 @@
     width: 38px;
     height: 38px;
     margin-left: 0.4rem;
+    animation: move 1s infinite alternate;
+}
+@keyframes move{
+    0%{
+        transform: rotateX(120deg);
+    }
+    100%{
+        transform: rotateX(-120deg);
+    }
 }
 .home-subtitle{
     position: relative;
