@@ -33,20 +33,43 @@ const Frontend = () => {
                     <i className="bx bx-badge-check"></i>
                     <div className="">
                         <h3 className="skills-name">Javascript</h3>
-                        <span className="skills-level">Intermediate</span>
+                        <span className="skills-level">Advanced</span>
                     </div>
                     </div>
                     <div className="skills-data">
                     <i className="bx bx-badge-check"></i>
                     <div className="">
                         <h3 className="skills-name">React JS</h3>
-                        <span className="skills-level">Intermediate</span>
+                        <span className="skills-level">Advanced</span>
                     </div>
                     </div>
                     <div className="skills-data">
                     <i className="bx bx-badge-check"></i>
                     <div className="">
                         <h3 className="skills-name">Tailwind CSS</h3>
+                        <span className="skills-level">Advanced</span>
+                    </div>
+                    </div>
+            </div>
+            <div className="skills-group">
+                    <div className="skills-data">
+                    <i className="bx bx-badge-check"></i>
+                    <div className="">
+                        <h3 className="skills-name">Next Js</h3>
+                        <span className="skills-level">Intermediate</span>
+                    </div>
+                    </div>
+                    <div className="skills-data">
+                    <i className="bx bx-badge-check"></i>
+                    <div className="">
+                        <h3 className="skills-name">Node JS</h3>
+                        <span className="skills-level">Intermediate</span>
+                    </div>
+                    </div>
+                    <div className="skills-data">
+                    <i className="bx bx-badge-check"></i>
+                    <div className="">
+                        <h3 className="skills-name">MongoDB</h3>
                         <span className="skills-level">Intermediate</span>
                     </div>
                     </div>

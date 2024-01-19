@@ -109,23 +109,25 @@ const Qualification = () => {
                     <span className="qualification-line"></span>
                 </div>
 
+                   
+                   <div className="">
+                    <h3 className="qualification-title">Graphics Designer</h3>
+                    <span className="qualification-subtitle">Coutana</span>
+                    <div className="qualification-calendar">
+                        <i className="uil uil-calendar-alt"></i>
+                        2020-2021
+                    </div>
+                   </div> 
+                </div>
+                <div className="qualification-data">
+                   
+
                    <div className="">
                     <h3 className="qualification-title">Sales Processing Officer </h3>
                     <span className="qualification-subtitle">Seven-Up Bottling Company</span>
                     <div className="qualification-calendar">
                         <i className="uil uil-calendar-alt"></i>
                         2021 - 2022
-                    </div>
-                   </div> 
-                   
-                </div>
-                <div className="qualification-data">
-                   <div className="">
-                    <h3 className="qualification-title">Data Analyst Intern</h3>
-                    <span className="qualification-subtitle">Seven-Up Bottling Company</span>
-                    <div className="qualification-calendar">
-                        <i className="uil uil-calendar-alt"></i>
-                        2022 - Present
                     </div>
                    </div> 
                    <div className="">
@@ -142,12 +144,12 @@ const Qualification = () => {
                     <span className="qualification-line"></span>
                 </div>
 
-                   <div className="">
-                    <h3 className="qualification-title">Graphics Designer</h3>
-                    <span className="qualification-subtitle">Coutana</span>
+                <div className="">
+                    <h3 className="qualification-title">Frontend Developer</h3>
+                    <span className="qualification-subtitle">Seven-Up Bottling Company</span>
                     <div className="qualification-calendar">
                         <i className="uil uil-calendar-alt"></i>
-                        2020-2021
+                        2022 - present
                     </div>
                    </div> 
                    
