@@ -59,7 +59,7 @@
     background-color: var(--title-color-dark);
 }
 .home-description{
-    max-width: 400px;
+    max-width: 500px;
     margin-bottom: var(--mb-3);
 }
 .home-img{
